@@ -3,6 +3,8 @@
 Repository to store code for simulations and empirical analyses described in: "Study design and the sampling of deleterious rare variants in biobank-scale datasets."
 Please see our preprint [here](https://www.biorxiv.org/content/10.1101/2024.12.02.626424v2) for details.
 
+[![DOI](https://zenodo.org/badge/895277147.svg)](https://doi.org/10.5281/zenodo.15398318)
+
 ## Figures
 
 Code to produce all figures in the manuscript is available in the `figures` directory. 
